@@ -26,11 +26,10 @@ namespace P3_TP1
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            string personaAgregada = txtNombre.Text.Trim().ToUpper();
-            bool encontrado = false;
-
             if (txtNombre.Text.Trim() != "")
             {
+                string personaAgregada = txtNombre.Text.Trim().ToUpper();
+                bool encontrado = false;
                 foreach (string persona in lbNombreIzquierda.Items)
                 {
                     if (persona.ToUpper() == personaAgregada.ToUpper())
@@ -39,18 +38,20 @@ namespace P3_TP1
                         break;
                     }
                 }
-            }
-
-            if (!encontrado)
-            {
-               lbNombreIzquierda.Items.Add(personaAgregada);
-                txtNombre.Clear();
+                if (!encontrado)
+                {
+                    lbNombreIzquierda.Items.Add(personaAgregada);
+                    txtNombre.Clear();
+                }
+                else
+                {
+                    MessageBox.Show("El nombre ya se ingreso anteriormente", "Alerta");
+                }
             }
             else
             {
-                MessageBox.Show("El nombre ya se ingreso anteriormente", "Alerta");
+                MessageBox.Show("Debe ingresar un nombre", "Error");
             }
-
         }
 
         private void btnMoverUno_Click(object sender, EventArgs e)
