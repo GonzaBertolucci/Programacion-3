@@ -56,12 +56,26 @@ namespace P3_TP1
 
         private void btnMoverUno_Click(object sender, EventArgs e)
         {
+            
+            if (lbNombreIzquierda.SelectedItem!=null)
+            {
+                lbNombreDerecha.Items.Add(lbNombreIzquierda.SelectedItem);
+                lbNombreIzquierda.Items.Remove(lbNombreIzquierda.SelectedItem);
+            }
+        }
 
-            foreach (string seleccionado in lbNombreIzquierda.SelectedItems)
+        private void btnMoverTodos_Click(object sender, EventArgs e)
+        {
+            if(lbNombreIzquierda.Items.Count == 0)
+            {
+                MessageBox.Show("La lista se encuentra vacia", "Alerta");
+            }
+
+            foreach (string seleccionado in lbNombreIzquierda.Items)
             {
                 lbNombreDerecha.Items.Add(seleccionado.ToUpper());
             }
-            lbNombreIzquierda.Items.Clear();
+                lbNombreIzquierda.Items.Clear();
         }
     }
 }

@@ -54,7 +54,6 @@ namespace P3_TP1
             txtNombre.Name = "txtNombre";
             txtNombre.Size = new Size(268, 23);
             txtNombre.TabIndex = 1;
-            //txtNombre.TextChanged += txtNombre_TextChanged;
             // 
             // btnAgregar
             // 
@@ -106,6 +105,7 @@ namespace P3_TP1
             btnMoverTodos.TabIndex = 6;
             btnMoverTodos.Text = ">>";
             btnMoverTodos.UseVisualStyleBackColor = true;
+            btnMoverTodos.Click += btnMoverTodos_Click;
             // 
             // Form2
             // 
