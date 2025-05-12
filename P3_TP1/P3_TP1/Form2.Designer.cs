@@ -72,7 +72,6 @@ namespace P3_TP1
             lbNombreIzquierda.ItemHeight = 15;
             lbNombreIzquierda.Location = new Point(86, 154);
             lbNombreIzquierda.Name = "lbNombreIzquierda";
-            lbNombreIzquierda.SelectionMode = SelectionMode.MultiSimple;
             lbNombreIzquierda.Size = new Size(222, 259);
             lbNombreIzquierda.TabIndex = 3;
             // 

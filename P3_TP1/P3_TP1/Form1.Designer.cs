@@ -54,6 +54,7 @@
             btnEjercicio2.TabIndex = 1;
             btnEjercicio2.Text = "EJERCICIO 2";
             btnEjercicio2.UseVisualStyleBackColor = true;
+            btnEjercicio2.Click += btnEjercicio2_Click;
             // 
             // btnEjercicio3
             // 
