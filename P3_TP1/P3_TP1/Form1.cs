@@ -20,5 +20,12 @@ namespace P3_TP1
             formulario3.Show();
             this.Hide();
         }
+
+        private void btnEjercicio3_Click(object sender, EventArgs e)
+        {
+            Form4 formulario4 = new Form4(this);
+            formulario4.Show();
+            this.Hide();
+        }
     }
 }

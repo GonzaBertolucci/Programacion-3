@@ -17,3 +17,4 @@ C:\Users\Gonzalo\Documents\Programacion 3 TPs\P3_TP1\P3_TP1\obj\Debug\net8.0-win
 C:\Users\Gonzalo\Documents\Programacion 3 TPs\P3_TP1\P3_TP1\obj\Debug\net8.0-windows\P3_TP1.genruntimeconfig.cache
 C:\Users\Gonzalo\Documents\Programacion 3 TPs\P3_TP1\P3_TP1\obj\Debug\net8.0-windows\ref\P3_TP1.dll
 C:\Users\Gonzalo\Documents\Programacion 3 TPs\P3_TP1\P3_TP1\obj\Debug\net8.0-windows\P3_TP1.Form4.resources
+C:\Users\Gonzalo\Documents\Programacion 3 TPs\P3_TP1\P3_TP1\obj\Debug\net8.0-windows\P3_TP1.sourcelink.json

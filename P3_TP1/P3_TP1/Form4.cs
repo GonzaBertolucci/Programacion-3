@@ -12,9 +12,11 @@ namespace P3_TP1
 {
     public partial class Form4 : Form
     {
-        public Form4()
+        Form1 formulario1;
+        public Form4(Form1 formulario1)
         {
             InitializeComponent();
+            this.formulario1 = formulario1;
         }
     }
 }

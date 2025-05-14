@@ -64,6 +64,7 @@
             btnEjercicio3.TabIndex = 2;
             btnEjercicio3.Text = "EJERCICIO 3";
             btnEjercicio3.UseVisualStyleBackColor = true;
+            btnEjercicio3.Click += btnEjercicio3_Click;
             // 
             // lblIntegrantes
             // 
