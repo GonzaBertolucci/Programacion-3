@@ -23,5 +23,51 @@ namespace P3_TP1
         {
             formulario1.Show();
         }
+
+        private void btnMostrarSeleccion_Click(object sender, EventArgs e)
+        {
+            
+                lblTexto.Visible = true;
+                if (rbFemenino.Checked)
+                {
+                    string selecSexo = rbFemenino.Text;
+                    lblSexo.Visible = true;
+                    lblSexo.Text += " " + selecSexo;
+                }
+                else
+                {
+                    string selecSexo = rbMasculino.Text;
+                    lblSexo.Visible = true;
+                    lblSexo.Text += " " + selecSexo;
+                }
+
+                if (rbSoltero.Checked)
+                {
+                    string estadoCivil = rbSoltero.Text;
+                    lblEstadoCivil.Visible = true;
+                    lblEstadoCivil.Text += " " + estadoCivil;
+                }
+                else
+                {
+                    string estadoCivil = rbCasado.Text;
+                    lblEstadoCivil.Visible = true;
+                    lblEstadoCivil.Text += " " + estadoCivil;
+                }
+
+                lblOficio.Visible = true;
+                lblOficio.Text = "Oficio:";
+
+                if (chListbox.CheckedItems.Count > 0)
+                {
+                    foreach (string item in chListbox.CheckedItems)
+                    {
+                        lblOficio.Text += $"\n -{item}\n".TrimEnd();
+                    }
+                }
+                else
+                {
+                    lblOficio.Text += "\n(No selecciono ningun oficio)";
+                }
+        }
     }
 }
