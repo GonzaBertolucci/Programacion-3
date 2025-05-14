@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|c:\\users\\gonzalo\\documents\\programacion 3 tps\\p3_tp1\\p3_tp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|c:\\users\\gonzalo\\documents\\programacion 3 tps\\p3_tp1\\p3_tp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|c:\\users\\gonzalo\\documents\\programacion 3 tps\\p3_tp1\\p3_tp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\p3_tp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|c:\\users\\gonzalo\\documents\\programacion 3 tps\\p3_tp1\\p3_tp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\p3_tp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\p3_tp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|c:\\users\\gonzalo\\documents\\programacion 3 tps\\p3_tp1\\p3_tp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\p3_tp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|c:\\users\\gonzalo\\documents\\programacion 3 tps\\p3_tp1\\p3_tp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|c:\\users\\gonzalo\\documents\\programacion 3 tps\\p3_tp1\\p3_tp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\p3_tp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|c:\\users\\gonzalo\\documents\\programacion 3 tps\\p3_tp1\\p3_tp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B67B3A1-67F5-41C4-8B26-2E0BB7C350E9}|P3_TP1\\P3_TP1.csproj|solutionrelative:p3_tp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -48,7 +52,7 @@
               "RelativeDocumentMoniker": "P3_TP1\\Form1.cs",
               "ToolTip": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form1.cs",
               "RelativeToolTip": "P3_TP1\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T18:02:28.108Z",
               "IsPinned": true,
@@ -56,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form1.cs",
               "RelativeDocumentMoniker": "P3_TP1\\Form1.cs",
@@ -69,7 +73,47 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form4.cs",
+              "RelativeDocumentMoniker": "P3_TP1\\Form4.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form4.cs*",
+              "RelativeToolTip": "P3_TP1\\Form4.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:00:31.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form4.cs",
+              "RelativeDocumentMoniker": "P3_TP1\\Form4.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form4.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "P3_TP1\\Form4.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:11:50.965Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form3.cs",
+              "RelativeDocumentMoniker": "P3_TP1\\Form3.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form3.cs",
+              "RelativeToolTip": "P3_TP1\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:14:37.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form3.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form3.cs",
               "RelativeDocumentMoniker": "P3_TP1\\Form3.cs",
@@ -77,51 +121,24 @@
               "RelativeToolTip": "P3_TP1\\Form3.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T18:28:29.339Z",
-              "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form3.cs",
-              "RelativeDocumentMoniker": "P3_TP1\\Form3.cs",
-              "ToolTip": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form3.cs",
-              "RelativeToolTip": "P3_TP1\\Form3.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAawD4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:14:37.898Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form2.cs",
               "RelativeDocumentMoniker": "P3_TP1\\Form2.cs",
               "ToolTip": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form2.cs",
               "RelativeToolTip": "P3_TP1\\Form2.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T18:29:51.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form4.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form4.cs",
-              "RelativeDocumentMoniker": "P3_TP1\\Form4.cs",
-              "ToolTip": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form4.cs [Dise\u00F1o]",
-              "RelativeToolTip": "P3_TP1\\Form4.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:11:50.965Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Gonzalo\\Documents\\Programacion 3 TPs\\P3_TP1\\P3_TP1\\Form2.cs",
               "RelativeDocumentMoniker": "P3_TP1\\Form2.cs",

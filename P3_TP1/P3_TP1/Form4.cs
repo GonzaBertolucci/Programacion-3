@@ -18,5 +18,10 @@ namespace P3_TP1
             InitializeComponent();
             this.formulario1 = formulario1;
         }
+
+        private void Form4_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            formulario1.Show();
+        }
     }
 }
